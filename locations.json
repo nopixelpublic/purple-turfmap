@@ -73,7 +73,7 @@
 		"id": 1,
 		"type": "Gang Block",
 		"title": "Street Team",
-		"notes": "Street Team is Skull gangs initial Street Team",
+		"notes": "Street Team is widely known to associate with Skull Gang",
 		"wiki_link": "",
 		"order": 1,
 		"strokecolor": "787878",
@@ -163,6 +163,39 @@
 			{"lat": -72.238, "lng": -48.241},
 			{"lat": -73.505, "lng": -44.945},
 			{"lat": -73.845, "lng": -46.483}
+		]
+	},
+	{
+		"id": 0,
+		"type": "Gang Block",
+		"title": "Skull Gang",
+		"notes": "Skullgang Territory",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "171717",
+		"fillcolor": "1A1A1A",
+		"latlngarray": [
+			{"lat": -65.505, "lng": -36.286},
+			{"lat": -65.482, "lng": -36.132},
+			{"lat": -65.478, "lng": -35.594},
+			{"lat": -65.482, "lng": -35.067},
+			{"lat": -65.469, "lng": -34.331},
+			{"lat": -65.473, "lng": -34.056},
+			{"lat": -65.532, "lng": -33.825},
+			{"lat": -65.591, "lng": -33.759},
+			{"lat": -66.602, "lng": -33.748},
+			{"lat": -66.663, "lng": -33.814},
+			{"lat": -66.680, "lng": -33.979},
+			{"lat": -66.693, "lng": -35.034},
+			{"lat": -66.702, "lng": -35.594},
+			{"lat": -66.750, "lng": -36.044},
+			{"lat": -66.745, "lng": -36.319},
+			{"lat": -66.737, "lng": -36.484},
+			{"lat": -66.719, "lng": -36.583},
+			{"lat": -66.514, "lng": -36.572},
+			{"lat": -66.188, "lng": -36.429},
+			{"lat": -65.840, "lng": -36.396},
+			{"lat": -65.610, "lng": -36.385}
 		]
 	},
 	{
