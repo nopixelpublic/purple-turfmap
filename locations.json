@@ -547,5 +547,53 @@
 			{"lat": -78.896, "lng": 10.870},
 			{"lat": -78.828, "lng": 6.475}
 		]
+	},
+		{
+		"id": 20,
+		"type": "Gang Block",
+		"title": "Rat Pack",
+		"notes": "Rat Pack Gang Territory",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFBD31",
+		"fillcolor": "FFCB5D",
+		"latlngarray": [
+			{"lat": -59.569, "lng": 16.178},
+			{"lat": -59.912, "lng": 16.156},
+			{"lat": -60.599, "lng": 15.870},
+			{"lat": -60.953, "lng": 15.738},
+			{"lat": -61.503, "lng": 13.431},
+			{"lat": -60.846, "lng": 12.728},
+			{"lat": -60.404, "lng": 14.112},
+			{"lat": -59.791, "lng": 15.606},
+			{"lat": -60.164, "lng": 14.771}
+		]
+	},
+	{
+		"id": 0,
+		"type": "Gang Block",
+		"title": "R.U.S.T",
+		"notes": "Rust Gang Territory",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "D63E00",
+		"fillcolor": "992E02",
+		"latlngarray": [
+			{"lat": -45.180, "lng": -17.431},
+			{"lat": -45.458, "lng": -16.948},
+			{"lat": -45.720, "lng": -16.135},
+			{"lat": -46.087, "lng": -14.751},
+			{"lat": -46.315, "lng": -14.377},
+			{"lat": -46.693, "lng": -13.125},
+			{"lat": -48.018, "lng": -13.938},
+			{"lat": -47.929, "lng": -14.970},
+			{"lat": -47.068, "lng": -18.464},
+			{"lat": -46.708, "lng": -18.794},
+			{"lat": -46.117, "lng": -18.750},
+			{"lat": -45.520, "lng": -18.398},
+			{"lat": -45.180, "lng": -18.113},
+			{"lat": -45.134, "lng": -17.739},
+			{"lat": -45.149, "lng": -17.607}
+		]
 	}
 ]
