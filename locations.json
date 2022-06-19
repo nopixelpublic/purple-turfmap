@@ -250,6 +250,22 @@
 			{"lat": -72.204, "lng": -13.556}
 		]
 	},
+{
+		"id": 8483,
+		"type": "Gang Block",
+		"title": "Hydra",
+		"notes": "Hydra Gang Block",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF8300",
+		"latlngarray": [
+			{"lat": -81.161, "lng": -2.661},
+			{"lat": -81.173, "lng": 1.558},
+			{"lat": -81.360, "lng": 1.624},
+			{"lat": -81.380, "lng": -2.672}
+		]
+	},
 	{
 		"id": 7,
 		"type": "Gang Block",
