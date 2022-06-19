@@ -115,18 +115,24 @@
 		"type": "Gang Block",
 		"title": "Yokai",
 		"notes": "Leaders of Yokai originated from the gang DGN (Degenerates) which split apart and majority of members of DGN ended up coming together and creating Yokai",
+		"images": [
+			{
+				"headline": "Yokai",
+				"url": "https://thumbs.gfycat.com/SnivelingPerkyGreendarnerdragonfly-mobile.mp4"
+			}
+		],
 		"wiki_link": "",
 		"order": 3,
 		"strokecolor": "AB0707",
 		"fillcolor": "E14343",
 		"latlngarray": [
-			{"lat": -65.485, "lng": -53.785},
-			{"lat": -65.955, "lng": -52.873},
-			{"lat": -66.306, "lng": -52.576},
-			{"lat": -66.969, "lng": -52.203},
-			{"lat": -66.977, "lng": -53.961},
-			{"lat": -67.033, "lng": -54.213},
-			{"lat": -66.227, "lng": -55.565}
+			{"lat": -45.519, "lng": -49.269},
+			{"lat": -45.550, "lng": -47.632},
+			{"lat": -45.627, "lng": -46.248},
+			{"lat": -46.737, "lng": -46.369},
+			{"lat": -46.835, "lng": -48.511},
+			{"lat": -46.397, "lng": -49.094},
+			{"lat": -45.956, "lng": -49.291}
 		]
 	},
 	{
