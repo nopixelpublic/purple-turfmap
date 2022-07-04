@@ -520,7 +520,13 @@
 		"id": 17,
 		"type": "Gang Block",
 		"title": "The Sins",
-		"notes": "Something will end up being here",
+		"notes": "The Sins reside in Grapeseed. Far from the city, they hold their own against any intruders and often greet visitors with generosity. They patrol the fields of Grapeseed with viscous and territorial eagerness. Anyone found doing the wrong things in their turf tend to end up in the lake, or cooked and eaten by their leader. Cannibals and a bit crazy, The Sins make their presence in the city little known but by those who have earned their respect. Outside of the normal gang activities, The Sins carve into locals to get organs to offer the Dark Master that resides in the Crypt. Though not the most well known, they have a presence wherever they go and will ensure that their family, friends, turf and privacy is well protected",
+		"images": [
+			{
+				"headline": "The Sins",
+				"url": "https://i.imgur.com/mLEO0wx.jpg"
+			}
+		],
 		"wiki_link": "",
 		"order": 17,
 		"strokecolor": "A800E8",
