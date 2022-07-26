@@ -577,27 +577,6 @@
 			{"lat": -78.828, "lng": 6.475}
 		]
 	},
-		{
-		"id": 20,
-		"type": "Gang Block",
-		"title": "Rat Pack",
-		"notes": "Rat Pack Gang Territory",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FFBD31",
-		"fillcolor": "FFCB5D",
-		"latlngarray": [
-			{"lat": -59.569, "lng": 16.178},
-			{"lat": -59.912, "lng": 16.156},
-			{"lat": -60.599, "lng": 15.870},
-			{"lat": -60.953, "lng": 15.738},
-			{"lat": -61.503, "lng": 13.431},
-			{"lat": -60.846, "lng": 12.728},
-			{"lat": -60.404, "lng": 14.112},
-			{"lat": -59.791, "lng": 15.606},
-			{"lat": -60.164, "lng": 14.771}
-		]
-	},
 	{
 		"id": 0,
 		"type": "Gang Block",
