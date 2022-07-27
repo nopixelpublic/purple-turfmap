@@ -70,31 +70,6 @@
 		]
 	},
 	{
-		"id": 1,
-		"type": "Gang Block",
-		"title": "Street Team",
-		"notes": "Street Team is widely known to associate with Skull Gang",
-		"wiki_link": "",
-		"order": 1,
-		"strokecolor": "787878",
-		"fillcolor": "B6B5B4",
-		"latlngarray": [
-			{"lat": -65.425, "lng": -39.456},
-			{"lat": -65.407, "lng": -37.599},
-			{"lat": -65.466, "lng": -37.413},
-			{"lat": -65.471, "lng": -36.687},
-			{"lat": -66.070, "lng": -36.622},
-			{"lat": -66.403, "lng": -36.808},
-			{"lat": -66.665, "lng": -37.028},
-			{"lat": -66.886, "lng": -37.413},
-			{"lat": -67.190, "lng": -38.160},
-			{"lat": -67.275, "lng": -38.599},
-			{"lat": -66.882, "lng": -39.181},
-			{"lat": -66.569, "lng": -39.478},
-			{"lat": -65.748, "lng": -39.489}
-		]
-	},
-	{
 		"id": 2,
 		"type": "Gang Block",
 		"title": "The Continental Family",
@@ -202,58 +177,6 @@
 			{"lat": -66.188, "lng": -36.429},
 			{"lat": -65.840, "lng": -36.396},
 			{"lat": -65.610, "lng": -36.385}
-		]
-	},
-	{
-		"id": 6,
-		"type": "Gang Block",
-		"title": "Grove Street Family",
-		"notes": "The Grove Street Families (GSF) is one of many sets within 'The Families'. GSF is one of the oldest gangs in Los Santos, San Andreas and continues to thrive within Los Santos till this day. They are easily recognizable by their green clothing and bandanas. Most of their territory can be found in the poorer/run-down neighborhoods of South Central Los Santos AKA Forum Drive, though they also have small pockets of territory elsewhere.  They take their family and privacy very serious, caution is advised, as GSF does not like trespassers on their turf",
-		"wiki_link": "",
-		"images": [
-			{
-				"headline": "The Grove Street Family",
-				"url": "https://images-ext-1.discordapp.net/external/B01Ln2MC4OC98mLSoLe_TRQdM5t_L5POpVcJad2UpXY/%3Fwidth%3D1920%26height%3D862/https/media.discordapp.net/attachments/973068537839124540/974451600607309864/unknown.png?width=724&height=325"
-			}
-		],
-		"order": 6,
-		"strokecolor": "1F8504",
-		"fillcolor": "2ABB03",
-		"latlngarray": [
-			{"lat": -71.794, "lng": -12.453},
-			{"lat": -71.579, "lng": -13.244},
-			{"lat": -71.482, "lng": -13.617},
-			{"lat": -71.489, "lng": -14.474},
-			{"lat": -71.506, "lng": -15.182},
-			{"lat": -71.534, "lng": -15.512},
-			{"lat": -71.534, "lng": -18.083},
-			{"lat": -71.561, "lng": -18.566},
-			{"lat": -71.596, "lng": -18.874},
-			{"lat": -71.906, "lng": -19.775},
-			{"lat": -72.035, "lng": -19.423},
-			{"lat": -72.230, "lng": -20.104},
-			{"lat": -72.170, "lng": -20.500},
-			{"lat": -71.851, "lng": -21.576},
-			{"lat": -71.796, "lng": -22.170},
-			{"lat": -71.899, "lng": -22.301},
-			{"lat": -72.123, "lng": -22.411},
-			{"lat": -72.304, "lng": -22.521},
-			{"lat": -72.430, "lng": -22.675},
-			{"lat": -72.668, "lng": -22.917},
-			{"lat": -72.844, "lng": -23.202},
-			{"lat": -72.998, "lng": -23.532},
-			{"lat": -73.216, "lng": -23.949},
-			{"lat": -73.480, "lng": -24.521},
-			{"lat": -73.863, "lng": -22.389},
-			{"lat": -74.111, "lng": -21.686},
-			{"lat": -74.309, "lng": -20.829},
-			{"lat": -74.415, "lng": -20.390},
-			{"lat": -74.160, "lng": -19.423},
-			{"lat": -73.906, "lng": -18.478},
-			{"lat": -73.592, "lng": -17.468},
-			{"lat": -73.266, "lng": -16.567},
-			{"lat": -72.947, "lng": -15.600},
-			{"lat": -72.204, "lng": -13.556}
 		]
 	},
 {
